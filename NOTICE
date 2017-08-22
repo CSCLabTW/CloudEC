@@ -1,0 +1,15 @@
+   =========================================================================
+   ==  NOTICE file for use with the Apache License, Version 2.0,          ==
+   ==  in this case for the Contrail Project.                             ==
+   =========================================================================
+
+   This software contains code derived from the Contrail Project, which is
+   developed by Michael Schatz, Jeremy Chambers, Avijit Gupta, Rushil Gupta,
+   David Kelley, Jeremy Lewi, Deepak Nettem, Dan Sommer, Mihai Pop, Schatz 
+   Lab and Cold Spring Harbor Laboratory.
+
+   Code derived from the Contrail Project contains: Config.java, Utils.java,
+   and PostProcessConvert.java.   
+
+   The Contrail Project is available at:
+     http://sourceforge.net/apps/mediawiki/contrail-bio/
